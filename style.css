@@ -1,0 +1,32 @@
+p{
+    color:red;
+    background:white;
+}
+h2{
+    color:blue;
+    background:white;
+}
+li1{
+    color:green;
+    background:white;
+}
+strong1{
+    font-size:20px;
+    color:purple
+}
+strong2{
+    font-size:20px;
+    color:brown
+}
+th{
+    font-size:20px;
+    color:yellowgreen;
+    font-transform:uppercase;
+
+}
+tr{
+    font-size:20px;
+    font-transform:uppercase;
+
+}
+
